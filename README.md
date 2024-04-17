@@ -63,5 +63,3 @@ This DApp implements transparent and secure supply chain management using blockc
 
 * Add Ganache as a custom network in MetaMask using the RPC server URL.
 * Import Ganache accounts into MetaMask for testing.
-
-**Let me know if you'd like any additional adjustments or have specific formatting requirements!** 
