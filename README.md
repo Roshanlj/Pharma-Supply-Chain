@@ -1,4 +1,4 @@
-##SupplyChain-Dapp: Blockchain-Based Pharmaceutical Supply Chain Management**
+## SupplyChain-Dapp: Blockchain-Based Pharmaceutical Supply Chain Management**
 
 This DApp implements transparent and secure supply chain management using blockchain technology. 
 
